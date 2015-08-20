@@ -1,0 +1,21 @@
+{
+    "name": "yiipal/yii2-node",
+    "description": "This extension written for yiiPal project to manage contents.",
+    "type": "yii2-extension",
+    "keywords": ["yiipal","node"],
+    "license": "Apache License 2.0",
+    "authors": [
+        {
+            "name": "Steven.R",
+            "email": "steven@yiipal.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "yiipal\\node\\": ""
+        }
+    }
+}
