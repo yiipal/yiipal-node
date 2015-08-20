@@ -3,7 +3,7 @@
     "description": "This extension written for yiiPal project to manage contents.",
     "type": "yii2-extension",
     "keywords": ["yiipal","node"],
-    "license": "Apache License 2.0",
+    "license": "BSD-3-Clause",
     "authors": [
         {
             "name": "Steven.R",
